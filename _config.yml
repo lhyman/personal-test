@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leonard Hyman"
 title_separator          : "-"
 name                     : &name "Leonard Hyman"
-description              : &description "Policy Wonk. Program Performance Auditor."
+description              : &description "Performance Auditor. Civic Technologist. Political Junkie."
 url                      : https://lhyman.github.io/personal-test # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lhyman.github.io/personal-test"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/leonardhyman/"
+  linkedin         : "leonardhyman"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
